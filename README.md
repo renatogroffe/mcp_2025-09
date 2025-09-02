@@ -12,8 +12,8 @@ Links mencionados durante a aula:
 
 Testes com o MCP de Kubernetes:
 
-IMAGEM
+![MCP de Kubernetes no VS Code](img/mcp-kubernetes.png)
 
 Testes com o MCP Server de SQL Server + MCP de geração de dados fake:
 
-IMAGEM
+![MCPs de SQL Server + dados fake no VS Code](img/mcp-sqlserver.png)
