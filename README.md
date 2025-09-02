@@ -9,6 +9,9 @@ Links mencionados durante a aula:
 - Aplicação baseada em .NET 9 + Semantic Kernel + Azure OpenAI + OpenTelemetry + Grafana e que faz uso do MCP de Kubernetes: https://github.com/renatogroffe/dotnet9-semantickernel-otel-grafana-mcp-kubernetes_chat
 - MCP para SQL Server: https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts
 - MCP para geração de dados fake para testes em uma base SQL Server: https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver
+- OWASP Top 10 for Large Language Model Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+- Certificação Gratuita Docker Essentials - IBM: https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
+
 
 Testes com o MCP de Kubernetes:
 
