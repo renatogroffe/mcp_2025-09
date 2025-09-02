@@ -10,8 +10,8 @@ Links mencionados durante a aula:
 - MCP para SQL Server: https://github.com/renatogroffe/sqlserver-mcp-dotnet-tool-scripts
 - MCP para geração de dados fake para testes em uma base SQL Server: https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver
 - OWASP Top 10 for Large Language Model Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+- MCP Servers no Visual Studio Code: https://code.visualstudio.com/docs/copilot/customization/mcp-servers
 - Certificação Gratuita Docker Essentials - IBM: https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
-
 
 Testes com o MCP de Kubernetes:
 
